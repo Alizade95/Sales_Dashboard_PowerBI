@@ -1,5 +1,10 @@
 # Sales Dashboard (Power BI)
 
+![Dashboard Screenshot](Sales_Dashboard.png)
+
+This project is an interactive Power BI dashboard for sales analysis.
+# Sales Dashboard (Power BI)
+
 This project is an interactive Power BI dashboard for sales analysis.
 
 ## Features:
